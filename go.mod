@@ -43,7 +43,7 @@ require (
 	golang.org/x/term v0.45.0
 	google.golang.org/api v0.290.0
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260720171339-e059f2f05d78
-	google.golang.org/grpc v1.82.1
+	google.golang.org/grpc v1.83.1
 	google.golang.org/protobuf v1.36.11
 	gopkg.in/ini.v1 v1.67.3
 )
